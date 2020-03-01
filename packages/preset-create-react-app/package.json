@@ -34,8 +34,6 @@
   },
   "peerDependencies": {
     "@storybook/react": ">=5.2",
-    "node-sass": "*",
-    "react-scripts": ">=3.0.0",
-    "webpack": "^3.0.0 || ^4.0.0"
+    "react-scripts": ">=3.0.0"
   }
 }
